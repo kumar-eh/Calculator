@@ -1,5 +1,6 @@
 # Calculator
 A simple calculator app which performs basic mathematical operations. Run the the code calci.py in IDLE or some other python editor.
+The output may vary on different operating systems.
 
 
 1. Calculator gui.
